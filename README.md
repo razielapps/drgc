@@ -1,6 +1,6 @@
 
 
-<h1>Church Blog</h1>
+<h1>DIVINE REDEMPTION GOSPEL CHURCH</h1>
 <p>Played a volunteered role in enhancing my church's branding and advertising efforts by developing a modern and visually appealing web application.</p>
 
 ---
