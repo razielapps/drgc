@@ -63,7 +63,7 @@ const Gallery = () => {
 						priority
 					/>
 
-					<div className="absolute top-0 bg-gray-800/60 h-full w-full flex flex-col items-center justify-center text-amber-500">
+					<div className="absolute top-0 bg-gray-800/60 h-full w-full flex flex-col items-center justify-center text-white">
 						<h3 className="font-bold uppercase text-3xl lg:text-4xl tracking-wider">
 							Gallery
 						</h3>

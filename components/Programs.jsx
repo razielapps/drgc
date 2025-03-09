@@ -14,36 +14,29 @@ export const Programs = () => {
 			<div className="flex space-x-5 md:space-x-8 pb-3 overflow-auto max-w-full">
 				<ProgramsCard
 					serviceName={'Prayers & Counselling'}
-					day="Tuesday - Friday"
-					time={'10am - 2pm'}
+					day="Monday"
+					time={'10am'}
 					icon={prayer}
-					style={'bg-stone-300'}
+					style={'bg-blue-100'}
 				/>
 
 				<ProgramsCard
-					serviceName={'Light Encounter'}
+					serviceName={'Wednesday Service'}
 					day="Wednesday"
-					time={'6pm - 8pm'}
+					time={'9am'}
 					icon={cross}
-					style={'bg-stone-200'}
+					style={'bg-blue-100'}
 				/>
 
 				<ProgramsCard
-					serviceName={'Dominion Hour'}
-					day="Thursday"
-					time={'9am - 12pm'}
-					icon={dove}
-					style={'bg-stone-300'}
-				/>
-
-				<ProgramsCard
-					serviceName={'Main Service'}
+					serviceName={'Sunday Service'}
 					day="Sunday"
-					time={'8am - 11:30am'}
+					time={'9am'}
 					icon={church}
-					style={'bg-stone-200'}
+					style={'bg-blue-100'}
 				/>
 			</div>
+			
 		</div>
 	);
 };

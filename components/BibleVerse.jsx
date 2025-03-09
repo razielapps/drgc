@@ -9,8 +9,8 @@ export const BibleVerse = () => {
 			</h1>
 
 			<p className="italic text-[0.6rem] sm:text-xs flex items-center justify-center ">
-				<span className="flex items-center mr-2 font-bold">Psalm 71:7 -</span>
-				<span>I am as a wonder unto many; but thou art my strong refuge.</span>
+				<span className="flex items-center mr-2 font-bold">Psalm 30:7-</span>
+				<span>By thy favour thou hast made my mountain to stand strong.</span>
 			</p>
 		</div>
 	);

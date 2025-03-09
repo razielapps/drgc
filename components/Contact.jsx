@@ -50,7 +50,7 @@ export const Contact = () => {
 				</div>
 			</div>
 
-			<div className="lg:col-span-2 flex flex-col items-center justify-center space-y-10  text-gray-900">
+			<div className="gintouch lg:col-span-2 flex flex-col items-center justify-center space-y-10  text-gray-900">
 				<div className="space-y-2 font-semibold">
 					<p className="flex items-center text-sm">
 						<span>

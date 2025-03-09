@@ -34,13 +34,9 @@ function Home() {
 				<About />
 			</section>
 
-			<motion.section
-				initial={{ opacity: 0 }}
-				whileInView={{ opacity: 1 }}
-				transition={{ duration: 0.7 }}
-			>
+			
 				<AboutPastor />
-			</motion.section>
+			
 
 			<section>
 				<Programs />
@@ -62,9 +58,7 @@ function Home() {
 				<Youth />
 			</motion.section>
 
-			<section>
-				<Donations />
-			</section>
+
 
 			<motion.section
 				initial={{ opacity: 0 }}

@@ -14,7 +14,7 @@ export const About = () => {
 				<div className="flex flex-col items-center lg:items-start lg:col-span-2 text-center lg:text-left md:max-w-xl lg:max-w-none space-y-5 px-8 lg:px-0 text-sm">
 					<div>
 						<h1 className="font-bold text-gray-700 text-lg uppercase">About</h1>
-						<h1 className="text-4xl text-amber-400 ourchurch">Our Church</h1>
+						<h1 className="text-4xl text-amber-400 ourchurch">D.R.G.C INT'L</h1>
 					</div>
 
 					<div className="">
@@ -54,44 +54,6 @@ export const About = () => {
 							to get familiar with us.
 						</p>
 					</div>
-				</div>
-
-				<div className="lg:col-span-2 mt-10 lg:mt-0 space-y-2">
-					<motion.div
-						initial={{ opacity: 0, y: 50 }}
-						whileInView={{ opacity: 1, y: 0 }}
-						transition={{ duration: 1 }}
-						className="flex space-x-2 items-end justify-center lg:justify-end"
-					>
-						<Tag
-							icon={pray}
-							text={'Daily Prayers'}
-							style="w-36 sm:w-44 h-36 bg-stone-100"
-						/>
-						<Tag
-							icon={bible}
-							text={'Continuous Teaching'}
-							style={'w-36 sm:w-44 h-44 bg-stone-300'}
-						/>
-					</motion.div>
-
-					<motion.div
-						initial={{ opacity: 0, y: 50 }}
-						whileInView={{ opacity: 1, y: 0 }}
-						transition={{ duration: 1 }}
-						className="flex space-x-2 items-start justify-center lg:justify-end"
-					>
-						<Tag
-							icon={question}
-							text={'Community Helpers'}
-							style={'w-36 sm:w-44 h-44 bg-stone-300'}
-						/>
-						<Tag
-							icon={church}
-							text={'Set of Sermons'}
-							style={'w-36 sm:w-44 h-36 bg-stone-100'}
-						/>
-					</motion.div>
 				</div>
 			</div>
 		</div>

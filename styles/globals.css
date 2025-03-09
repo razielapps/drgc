@@ -46,7 +46,7 @@
 
 .dot {
 	@apply absolute top-0 -left-3.5 
-	bg-amber-400 
+	bg-[#015095]
 	h-6 w-6
 	rounded-full
 	border-4 border-white;
@@ -136,4 +136,31 @@ donatebtn:hover:after{background-color: #ABD8F9 !important;
     .meetour{
   margin-top: -15rem !important;
 }
+}
+
+.bgblue{
+  background-color: #19A1C9 !important;
+}
+
+.event-txt{
+  color:#19A1C9 !important ;
+}
+
+.gintouch{
+  padding: 15px;
+}
+
+.eventheader{
+  margin-bottom: -2rem;
+}
+
+
+.refref{
+  color: #19A1C9 !important;
+  font-size: 0.7rem !important;
+  
+}
+.refref a{
+  font-weight: 600 !important;
+  text-decoration: underline !important;
 }

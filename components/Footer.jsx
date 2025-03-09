@@ -38,6 +38,7 @@ export const Footer = () => {
 						<button className="btns uppercase reftext">Cookie Policy</button>
 						<button className="btns uppercase reftext">Terms and Conditions</button>
 					</div>
+					<p className="refref">Made with PASSION & LOVE by <a href="https://avtconscience.netlify.app">AVT CONSCIENCE</a></p>
 				</div>
 
 				
